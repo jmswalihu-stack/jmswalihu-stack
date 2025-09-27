@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src="./glass-card.svg" alt="glass card" width="800"/>
 
 <!--
 **jmswalihu-stack/jmswalihu-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
