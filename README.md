@@ -1,5 +1,4 @@
-## Hi there 👋
-<img src="./glass-card.svg" alt="glass card" width="800"/>
+
 <img src="./glass-shimmer.svg" width="800">
 
 <!--
